@@ -10,3 +10,7 @@ Projet réalisé dans le cadre du cours *Éléments de mécanique des fluides* d
 ## Auteurs
 
 * **François Rozet** - [Donshel](https://github.com/Donshel)
+
+## Note
+
+Ce projet a reçu la note de 19/20.
