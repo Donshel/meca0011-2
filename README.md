@@ -9,7 +9,7 @@ Projet réalisé dans le cadre du cours *Éléments de mécanique des fluides* d
 
 ## Auteurs
 
-* **François Rozet** - [Donshel](https://github.com/Donshel)
+* **François Rozet** - [francois-rozet](https://github.com/francois-rozet)
 
 ## Note
 
